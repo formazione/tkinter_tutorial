@@ -22,4 +22,5 @@ snippets for tkinter
 
     Write html code and get a pdf. Gotta install pdfkit and give the 
     path of the wkhtmltopdf.exe that come with the installation. Have fun.
-    ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-21-960x585.png)
+
+![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-21-960x585.png)
