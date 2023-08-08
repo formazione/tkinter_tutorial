@@ -2,7 +2,7 @@
 
 ### snippets for tkinter
 
-## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) py_site_launcher
+## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) py_site_launcher /pysitelauncher/py_site_launcher.py
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-32.png)
 
@@ -23,7 +23,7 @@
     - /icons
     
 
-## HTML TO PDF (html_to_pdf)
+## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) HTML TO PDF (html_to_pdf,py)
 
     Write html code and get a pdf. Gotta install pdfkit and give the 
     path of the wkhtmltopdf.exe that come with the installation. Have fun.
@@ -34,7 +34,7 @@
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-21-960x585.png)
 
-## FILEBROWSER
+## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) File browser (filebrowser.py)
 
 This script let's your browse the files in a directory.
 [Read the post about this file](https://pythonprogramming.altervista.org/how-to-get-the-item-selected-in-a-listbox-in-tkinter/)
