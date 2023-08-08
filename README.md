@@ -2,7 +2,7 @@
 
 ### snippets for tkinter
 
-## py_site_launcher
+![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Sprite_scratch_palla_rossa.png) ## py_site_launcher
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-32.png)
 
