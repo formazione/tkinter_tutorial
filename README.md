@@ -13,7 +13,8 @@
     # video
     https://youtu.be/HM6R1LCyqAQ
     
-    [blog](https://pythonprogramming.altervista.org/tkinter-python-site-launcher/)
+
+[blog](https://pythonprogramming.altervista.org/tkinter-python-site-launcher/)
 
 - toolbar (make a toolbar for python)
     - pytoolbar.py
