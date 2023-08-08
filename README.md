@@ -30,3 +30,9 @@
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-22.png)
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-21-960x585.png)
+
+## FILEBROWSER
+
+This script let's your browse the files in a directory.
+
+![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-29.png)
