@@ -25,10 +25,12 @@
 
 ## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) HTML TO PDF (html_to_pdf,py)
 
+![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-37.png)
+
     Write html code and get a pdf. Gotta install pdfkit and give the 
     path of the wkhtmltopdf.exe that come with the installation. Have fun.
 
-[Blog post](https://pythonprogramming.altervista.org/create-a-pdf-with-html-and-python/)
+[Click to read the blog post](https://pythonprogramming.altervista.org/create-a-pdf-with-html-and-python/)
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-22.png)
 
