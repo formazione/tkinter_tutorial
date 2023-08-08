@@ -34,5 +34,6 @@
 ## FILEBROWSER
 
 This script let's your browse the files in a directory.
+[Read the post about this file](https://pythonprogramming.altervista.org/how-to-get-the-item-selected-in-a-listbox-in-tkinter/)
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-29.png)
