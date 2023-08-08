@@ -2,7 +2,7 @@
 
 ### snippets for tkinter
 
-## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) py_site_launcher /pysitelauncher/py_site_launcher.py
+## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) pysitelauncher/pysitelauncher/py_site_launcher.py
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-32.png)
 
