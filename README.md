@@ -3,7 +3,9 @@
 ### snippets for tkinter
 
 ## py_site_launcher
-![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-32.png)   
+
+![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-32.png)
+
     This one creates a GUI with buttons that opens links on the web or other stuffs,
     simply writing the text, the address and the png file for the button in an
     external file called sites.site and saving the png file in a folder called icons.
