@@ -1,6 +1,9 @@
 # tkinter_tutorial
 
-### snippets for tkinter
+## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) image?show.py
+
+![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-44.png)
+Shows the 001.png image file in the same directory of the script.
 
 ## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) pysitelauncher/pysitelauncher/py_site_launcher.py
 
