@@ -1,3 +1,6 @@
+# button2web.py
+# creates web page with addresses to posts in listb
+
 import os
 
 

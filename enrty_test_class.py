@@ -1,3 +1,7 @@
+# entry_test_class.py
+# template with entry and text, the text in the entry is passed in the text area
+
+
 import tkinter as tk
 
 

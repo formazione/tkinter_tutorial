@@ -1,22 +1,19 @@
 import tkinter as tk
 from tkinter import PhotoImage
 
-def window(image):
-    # Create the main window
-    window = tk.Tk()
+class Window:
+    
+    def __init__(self, image):
+        self.image = image
+        self.root = tk.Tk()
+        self.widgets()
+        self.root.mainloop()
 
-    # Load the image using the PhotoImage class
-    image = PhotoImage(file=image)
-
-    # Create a label to display the image
-    label = tk.Label(window, image=image)
-
-    # Pack the label to display it in the window
-    label.pack()
-
-    # Run the tkinter event loop
-    window.mainloop()
+    def widgets(self):
+        self.img = PhotoImage(file=self.image)
+        label = tk.Label(self.root, image=self.img)
+        label.pack()
 
 
-
-window("001.png")
+image = "001.png"
+Window(image)

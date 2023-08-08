@@ -1,3 +1,6 @@
+# entry_test
+# as entry_test_class, with no class. The text in the entry goes into the text widget below
+
 import tkinter as tk
 
 def on_button_click():

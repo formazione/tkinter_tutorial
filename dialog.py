@@ -1,3 +1,6 @@
+# dialog.py
+# opens filedialog with a button, then write file chosen name in label
+
 import tkinter as tk
 from tkinter import filedialog
 

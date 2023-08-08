@@ -1,7 +1,7 @@
 # D:\github\tkinter_tutorial\filebrowser.py
 
 # filebrowser.py
-
+#show the content of the file in the listbox on the left into the text area on the right when seltect one item
 
 from glob import glob
 import tkinter as tk
