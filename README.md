@@ -1,5 +1,13 @@
 # tkinter_tutorial
 
+## tkvideoaudio
+
+Implementation of audio to the tkvideo module that let's you see a video into a label of tkinter.
+You can install tkvideoaudio to simplify code with:
+
+pip install tkvideoaudio@git+https://github.com/formazione/tkvideoaudio
+
+
 ## ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-36.png) image_show.py
 
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/08/image-44.png)
