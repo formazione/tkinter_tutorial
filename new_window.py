@@ -31,5 +31,6 @@ print(y)
 z = new_win("POP 3",
 	"Bye remember to subscribe, so you do not lose anything")
 print(z)
-
+z.button = tk.Button(root, text="click")
+z.button.pack()
 root.mainloop()

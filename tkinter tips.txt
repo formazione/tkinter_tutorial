@@ -1,0 +1,2 @@
+readonly
+text2.bind("<Key>", lambda e: "break")
