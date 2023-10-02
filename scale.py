@@ -10,27 +10,27 @@ class Window:
 		self.root = tk.Tk()
 		self.root.geometry("800x600")
 		self.root.config(background="black")
-		self.widgets()
+		self.create_widgets()
 		self.root.mainloop()
 
-	def widgets(self):
-		self.label_widget()
+	def create_widgets(self):
+		self.label_color_hex()
 		self.color1 = 0
 		self.color2 = 0
 		self.color3 = 0
-		self.scale_widget1()
-		self.scale_widget2()
-		self.scale_widget3()
+		self.scale_color1()
+		self.scale_color2()
+		self.scale_color3()
 
 
-	def label_widget(self):
+	def label_color_hex(self):
 		self.label = tk.Label(self.root,
 			text="...",
 			font="Arial 20",
 			)
 		self.label.pack(pady=80)
 
-	def scale_widget1(self):
+	def scale_color1(self):
 		self.var1 = tk.IntVar()
 		self.scale1 = tk.Scale(self.root,
 			variable=self.var1,
@@ -40,7 +40,7 @@ class Window:
 		self.scale1.pack()
 
 
-	def scale_widget2(self):
+	def scale_color2(self):
 		self.var2 = tk.IntVar()
 		self.scale2 = tk.Scale(self.root,
 			variable=self.var2,
@@ -49,7 +49,7 @@ class Window:
 			command=self.scalecommand2)
 		self.scale2.pack()
 
-	def scale_widget3(self):
+	def scale_color3(self):
 		self.var3 = tk.IntVar()
 		self.scale3 = tk.Scale(self.root,
 			variable=self.var3,
