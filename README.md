@@ -1,6 +1,6 @@
 # tkinter_tutorial
 
-## Colorpyker
+## Colorpycker
 
 Choose your color with tkinter and some scale widgets.
 ![](https://pythonprogramming.altervista.org/wp-content/uploads/2023/10/image-5.png)
